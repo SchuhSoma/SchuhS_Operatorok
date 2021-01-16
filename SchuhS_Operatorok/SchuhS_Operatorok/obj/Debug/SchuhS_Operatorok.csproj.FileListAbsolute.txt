@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\bin\Debug\SchuhS_Operatorok.exe.config
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\bin\Debug\SchuhS_Operatorok.exe
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\bin\Debug\SchuhS_Operatorok.pdb
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\obj\Debug\SchuhS_Operatorok.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\obj\Debug\SchuhS_Operatorok.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\obj\Debug\SchuhS_Operatorok.exe
+C:\Users\Soma\Documents\C#2\SchuhS_Operatorok\SchuhS_Operatorok\obj\Debug\SchuhS_Operatorok.pdb
